@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="hotPink">#ff69b4</color>
+    <color name="steel">#cdc9c9</color>
+    <color name="darkblack">#000000</color>
+    <color name="blue">#6495ed</color>
+    <color name="Aquamarine">#7fffd4</color>
+    <color name="Chartreuse">#7fff00</color>
+</resources>
